@@ -9,7 +9,9 @@ Now, after months of data collection, this project aims at delivering a boardroo
 
 Business Requests:
 The CEO is curious about the following questions:
-Did the average daily steps increase for cats wearing the device as they did for dogs?
-Were owners of Lapcat devices as satisfied with the product as Lapdog owners?
-The Chief Marketing Officer would like the report to be “on-brand” by including only colors from the Waggle color palette, the Waggle logo, and other approved company logos and icons.
-The product team request to incorporate other visuals/insights and are most interested in demographic comparisons between the dogs and cats using Waggle devices as well as any information about the families who own the pets. They would also like slicers to help them filter and explore on their own.
+- Did the average daily steps increase for cats wearing the device as they did for dogs?
+- Were owners of Lapcat devices as satisfied with the product as Lapdog owners?
+
+- The Chief Marketing Officer would like the report to be “on-brand” by including only colors from the Waggle color palette, the Waggle logo, and other approved company logos and icons.
+
+- The product team request to incorporate other visuals/insights and are most interested in demographic comparisons between the dogs and cats using Waggle devices as well as any information about the families who own the pets. They would also like slicers to help them filter and explore on their own.
